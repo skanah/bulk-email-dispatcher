@@ -173,6 +173,19 @@ For debugging purposes, you can add console.log statements to see the email send
 
 This project is licensed under the ISC License - see the LICENSE file for details.
 
+## 🆘 Support
+
+If you encounter any issues or have questions:
+
+1. Check the existing issues in the repository
+2. Search the documentation
+3. Submit a new issue with detailed information about the problem
+4. Include steps to reproduce if applicable
+
+## 👨‍💻 Author
+
+- **Sani Kana** - Creator and Lead Developer
+
 ## Acknowledgments
 
 - [Nodemailer](https://nodemailer.com/) for email sending capabilities
